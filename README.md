@@ -3,7 +3,7 @@
 [Mathematics Game](https://mathematicsgame.vercel.app/)
 
 # Week 3 Assignment (Marvel Heroes) [tr]
- > Bu projede basit bir matematik oyunu yapıldı.
+ > Bu projede basit bir matematik oyunu yapıldı. <br>
  > 1 ile 10 arasından 2 sayı rastgele seçildi ve bu şekilde her turda 10 adet çarpma işlemi soruldu.
 
  
@@ -34,7 +34,7 @@
 <hr>
 
 # Week 2 Assignment (Marvel Heroes) [en]
-> A simple math game was made in this project.
+> A simple math game was made in this project. <br>
 > 2 numbers from 1 to 10 were chosen randomly and in this way, 10 multiplications were asked in each round.
 
 ## Requirements to use the project
